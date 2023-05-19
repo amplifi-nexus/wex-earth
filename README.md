@@ -22,6 +22,15 @@ We welcome contributions of all kinds, from illustrations and icons to UI/UX des
 
 6. **Submit a Pull Request**: Go to the original repository and submit a pull request. Our team will review your contribution and provide feedback if necessary. Your work will be showcased in the main repository upon approval.
 
+Note: By contributing to this repository, you agree to release your work under CC-BY 4.0.  
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
 ## Guidelines
 
 To ensure a positive and collaborative environment, we kindly ask you to adhere to the following guidelines:
